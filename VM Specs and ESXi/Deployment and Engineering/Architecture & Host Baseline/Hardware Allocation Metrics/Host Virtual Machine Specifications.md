@@ -6,6 +6,4 @@
 * **USB Controller:** Present
 * **Sound Card / Display:** Auto detect
 
-![KMS Host Virtual Machine Specifications](./Screenshots/vlmcsd_vm_specs.png)
-
 ---
