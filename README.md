@@ -1,1 +1,1 @@
-Containerized local KMS licensing server running vlmcsd on Alpine Linux, automated via Active Directory SRV DNS routing for zero-touch VM activations.
+🐧 Lightweight Linux-vlmcsd KMS deployment featuring Active Directory DNS automation 🛠️. Eliminates manual keys with seamless, rolling 180-day activations. 🔄🎯
